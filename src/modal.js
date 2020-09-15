@@ -22,7 +22,7 @@ const StyledModal = styled.div`
   border-radius: 10px;
   min-width: 100px;
   width: 100%;
-  max-width: 80vw;
+  max-width: 90%;
   background: #fff;
   position: ${(props) => (props.inViewMode ? " " : " fixed")};
   top: ${(props) => (props.adjustHeight ? "2%" : "20%")};
@@ -63,8 +63,8 @@ const StyledModal = styled.div`
     color: #000;
   }
 
-  @media (max-width: 768px) {
-    max-width: 90%;
+  @media screen and (min-width: 768px) {
+    max-width: 50%;
   }
 `;
 
