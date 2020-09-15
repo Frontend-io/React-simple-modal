@@ -5,7 +5,7 @@ const StyledForm = styled.form`
   padding: 20px;
   background: white;
   border-radius: 5px;
-  max-width: ${(props) => (!props.type ? "100%" : "400px")};
+  max-width: ${(props) => (props.type ? "400px" : "100%")};
   text-align: center;
   & input {
     padding: 10px;
