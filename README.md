@@ -1,6 +1,8 @@
 # React-simple-modal
 
 Part of the collection of 'Simple-React-components'im working on. 
+Preview link https://csb-syt4m.netlify.app
+Created with CodeSandbox
 
   ```
   <Modal
@@ -28,6 +30,3 @@ title : The title on the modal head
 ```
 adjustHeight : boolean to adjust the vertical position of the modal incase contents overflow vertically
 ```
-
-Preview link https://csb-syt4m.netlify.app
-Created with CodeSandbox
