@@ -1,6 +1,6 @@
 # React-simple-modal
 
-Part of the collection of 'Simple-React-components'im working on. 
+Part of the collection of <b>Simple-React-components</b> - a reusable curation of react components i'm working on. 
 Preview link https://csb-syt4m.netlify.app
 Created with CodeSandbox
 
